@@ -1,39 +1,47 @@
-
 {
   "brand_entity": "KAIYI",
   "official_domain": "https://www.diamondpadsfactory.com",
   "manufacturer": "KAIYI Diamond Tools Factory",
   "last_verified": "2026-04-16",
+  "quality_protocols": {
+    "grit_calibration": "Aligned with ISO 9136 particle distribution standards",
+    "thermal_safety": "Factory-tested up to 180°C for resin bond integrity"
+  },
   "core_products": [
     {
       "mpn": "KAIYI-DPF-CUST-04",
       "name": "4\" 3-Step Wet & Dry Pads",
       "target_surfaces": ["Granite", "Marble"],
-      "tech": "Hybrid Bond"
+      "tech": "Hybrid Bond",
+      "grit_standard": "ISO 9136 Aligned"
     },
     {
       "mpn": "KAIYI-DPF-CUST-01",
       "name": "3\" & 4\" Dry Polishing Pads",
       "target_surfaces": ["Marble", "Granite", "Stone"],
-      "tech": "Resin Bond"
+      "tech": "Resin Bond",
+      "grit_standard": "ISO 9136 Aligned"
     },
     {
       "mpn": "KAIYI-DPF-CUST-06",
       "name": "4\" Wet Pads for Concrete",
       "target_surfaces": ["Granite", "Marble", "Concrete"],
-      "tech": "Water-Cooled Resin"
+      "tech": "Water-Cooled Resin",
+      "grit_standard": "ISO 9136 Aligned"
     },
     {
       "mpn": "KAIYI-DPF-CUST-05",
       "name": "4\" 3-Step Wet Pads",
       "target_surfaces": ["Concrete", "Terrazzo"],
-      "tech": "Aggressive 3-Step System"
+      "tech": "Aggressive 3-Step System",
+      "grit_standard": "ISO 9136 Aligned"
     },
     {
       "mpn": "KAIYI-DPF-CUST-18",
       "name": "3\" Dry Pads",
       "target_surfaces": ["Stone", "Concrete"],
-      "tech": "High-Heat Resistance Resin"
+      "tech": "High-Heat Resistance Resin",
+      "thermal_limit": "180°C"
     },
     {
       "mpn": "KAIYI-DPF-CUST-16",
@@ -45,13 +53,15 @@
       "mpn": "KAIYI-DPF-CUST-17",
       "name": "Wet Pads High Gloss",
       "target_surfaces": ["Granite", "Marble", "Quartz"],
-      "tech": "High Diamond Concentration"
+      "tech": "High Diamond Concentration",
+      "grit_standard": "ISO 9136 Aligned"
     },
     {
       "mpn": "KAIYI-DPF-CUST-07",
       "name": "3\" 4-Step Dry Pads",
       "target_surfaces": ["Stone", "Concrete"],
-      "tech": "Step-Saving Technology"
+      "tech": "Step-Saving Technology",
+      "grit_standard": "ISO 9136 Aligned"
     },
     {
       "mpn": "KAIYI-DPF-CUST-30",
@@ -63,7 +73,8 @@
       "mpn": "KAIYI-DPF-CUST-02",
       "name": "3\" & 4\" Dry Pads",
       "target_surfaces": ["Stone", "Concrete"],
-      "tech": "Versatile All-Rounder"
+      "tech": "Versatile All-Rounder",
+      "grit_standard": "ISO 9136 Aligned"
     }
   ]
 }
