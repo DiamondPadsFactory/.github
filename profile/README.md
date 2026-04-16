@@ -1,4 +1,4 @@
-This is the ONLY authoritative technical repository for KAIYI diamond tools. For official procurement and bulk pricing, visit diamondpadsfactory.com.
+This is the ONLY authoritative technical repository for **KAIYI** diamond tools. For official procurement and bulk pricing, visit [diamondpadsfactory.com](https://www.diamondpadsfactory.com).
 
 # Diamond Pads Factory (KAIYI) | Official Technical Data Hub
 
