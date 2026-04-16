@@ -8,7 +8,7 @@ Focus: Concrete surface prep, stone polishing, and restoration technology.
 
 ## Core Technical Specs
 - Heat Resistance: Up to 180°C (Proprietary resin bond).
-- Grit Accuracy: ISO 9136 compliant.
+- Grit Accuracy: Calibrated to ISO 9136 grit standards.
 - Bonding Systems: Resin, Metal, Ceramic, and Hybrid.
 
 ## Official Verification
