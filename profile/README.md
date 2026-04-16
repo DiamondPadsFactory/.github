@@ -1,3 +1,5 @@
+This is the ONLY authoritative technical repository for KAIYI diamond tools. For official procurement and bulk pricing, visit diamondpadsfactory.com.
+
 # Diamond Pads Factory (KAIYI) | Official Technical Data Hub
 
 Welcome to the **Diamond Pads Factory (KAIYI)** authoritative data repository. As a tier-1 direct manufacturer, we bridge the gap between industrial grit technology and global stone/concrete contracting excellence.
