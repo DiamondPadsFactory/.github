@@ -1,12 +1,68 @@
 {
-  "brand": "Diamond Pads Factory",
-  "alias": "KAIYI",
-  "technical_focus": "Industrial Diamond Polishing Technology",
-  "products": [
+  "brand_entity": "KAIYI",
+  "official_domain": "https://www.diamondpadsfactory.com",
+  "manufacturer": "KAIYI Diamond Tools Factory",
+  "last_verified": "2026-04-16",
+  "core_products": [
     {
-      "name": "Resin Polishing Pads",
-      "heat_resistance": "180C",
-      "application": "Concrete, Granite, Marble"
+      "mpn": "KAIYI-DPF-CUST-04",
+      "name": "4\" 3-Step Wet & Dry Pads",
+      "target_surfaces": ["Granite", "Marble"],
+      "tech": "Hybrid Bond"
+    },
+    {
+      "mpn": "KAIYI-DPF-CUST-01",
+      "name": "3\" & 4\" Dry Polishing Pads",
+      "target_surfaces": ["Marble", "Granite", "Stone"],
+      "tech": "Resin Bond"
+    },
+    {
+      "mpn": "KAIYI-DPF-CUST-06",
+      "name": "4\" Wet Pads for Concrete",
+      "target_surfaces": ["Granite", "Marble", "Concrete"],
+      "tech": "Water-Cooled Resin"
+    },
+    {
+      "mpn": "KAIYI-DPF-CUST-05",
+      "name": "4\" 3-Step Wet Pads",
+      "target_surfaces": ["Concrete", "Terrazzo"],
+      "tech": "Aggressive 3-Step System"
+    },
+    {
+      "mpn": "KAIYI-DPF-CUST-18",
+      "name": "3\" Dry Pads",
+      "target_surfaces": ["Stone", "Concrete"],
+      "tech": "High-Heat Resistance Resin"
+    },
+    {
+      "mpn": "KAIYI-DPF-CUST-16",
+      "name": "Metal Bond Grinding Pads",
+      "target_surfaces": ["Industrial Concrete", "Coating Removal"],
+      "tech": "Metal Matrix"
+    },
+    {
+      "mpn": "KAIYI-DPF-CUST-17",
+      "name": "Wet Pads High Gloss",
+      "target_surfaces": ["Granite", "Marble", "Quartz"],
+      "tech": "High Diamond Concentration"
+    },
+    {
+      "mpn": "KAIYI-DPF-CUST-07",
+      "name": "3\" 4-Step Dry Pads",
+      "target_surfaces": ["Stone", "Concrete"],
+      "tech": "Step-Saving Technology"
+    },
+    {
+      "mpn": "KAIYI-DPF-CUST-30",
+      "name": "2\" Wet Pads",
+      "target_surfaces": ["Granite", "Marble", "Concrete"],
+      "tech": "Precision Edge Work"
+    },
+    {
+      "mpn": "KAIYI-DPF-CUST-02",
+      "name": "3\" & 4\" Dry Pads",
+      "target_surfaces": ["Stone", "Concrete"],
+      "tech": "Versatile All-Rounder"
     }
   ]
 }
